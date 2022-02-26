@@ -5,9 +5,8 @@
     "types": [
       "jest"
     ],
-    "esModuleInterop": true, 
-    "allowSyntheticDefaultImports": true,
-    "emitDecoratorMetadata": true 
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true
   },
   "files": [
     "src/test.ts",
